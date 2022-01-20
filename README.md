@@ -23,7 +23,7 @@ A curated list of resources dedicated to Differential Privacy
 ## Blogs
 * [Damien Desfontaines' Personal Blog](https://desfontain.es/privacy/friendly-intro-to-differential-privacy.html) - His personal curated list of blogs which serve as a friendly introduction to differential privacy.
 * [differentialprivacy.org](https://differentialprivacy.org/) - Resource for the differential privacy research community and all of those who want to learn more about it. Also has a mailing list.
-* [gretel.ai Blog](https://gretel.ai/blog) - [Gretel.ai]()'s blog about privacy in machine learning, differential privacy and data sharing. More focused on creating sythetic data.
+* [gretel.ai Blog](https://gretel.ai/blog) - [Gretel.ai]()'s blog about privacy in machine learning, differential privacy and data sharing. More focused on creating synthetic data.
 * [OpenMined Blog](https://blog.openmined.org/tag/differential-privacy/) - All OpenMined blogs on differential privacy topic.
 * [PyTorch Blog](https://pytorch.medium.com/) - Differential Privacy Series currently consisting of [two](https://medium.com/pytorch/differential-privacy-series-part-1-dp-sgd-algorithm-explained-12512c3959a3) [parts](https://medium.com/pytorch/differential-privacy-series-part-2-efficient-per-sample-gradient-computation-in-opacus-5bf4031d9e22) explaining concepts like differential privacy, DP-SGD and their inner-workings in Opacus.
 
