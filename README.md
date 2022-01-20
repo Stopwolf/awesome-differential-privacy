@@ -1,4 +1,4 @@
-# awesome-dp
+# awesome-differential-privacy
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources dedicated to Differential Privacy
@@ -32,6 +32,7 @@ A curated list of resources dedicated to Differential Privacy
 * [tensorflow-privacy](https://github.com/tensorflow/privacy) - TensorFlow library for Differential Privacy.
 * [PyDP](https://github.com/OpenMined/PyDP) - OpenMined's Python wrapper library of Google's differential privacy library.
 * [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - Privacy testing Python library for deep learning systems.
+* * [diffprivlib](https://github.com/IBM/differential-privacy-library) - IBM's Python library for differential privacy.
 
 ## Papers
 * [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133) - Paper that introduced Differentially Private SGD optimizator that enabled private deep learning.
