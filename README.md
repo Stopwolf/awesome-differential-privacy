@@ -12,11 +12,11 @@ A curated list of resources dedicated to Differential Privacy
 * [Papers](#papers)
 
 ## Books
-* [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - Book from creators of Differential Privacy, Cynthia Dwork and Aaron Roth. Wouldn't recommend as an introductory resource.
+* [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - Book from creators of Differential Privacy, Cynthia Dwork and Aaron Roth. Wouldn't recommend as an introductory resource though.
 * [Programming Differential Privacy](https://programming-dp.com/) - Book by Joseph P. Near  and  Chiké Abuah. Created for a course at University of Vermont. Full of examples and Python code.
 * [Differential Privacy: A Primer for a Non-Technical Audience](https://salil.seas.harvard.edu/files/salil/files/differential_privacy_primer_nontechnical_audience.pdf) - Book by Wood et al. (including Kobbi Nissim), also analyzes legal aspects.
 ## Courses
-* [CS 860 - Algorithms for Private Data Analysis](http://www.gautamkamath.com/CS860-fa2020.html) - Course taught by Gautam Kamath at University of Waterloo. Course has lecture videos (as a [YouTube playlist](https://www.youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)), lecture notes and additional reading. More theoretical, but an **excellent introductory** course to Differential Privacy.
+* [CS 860 - Algorithms for Private Data Analysis](http://www.gautamkamath.com/CS860-fa2020.html) - Course taught by Gautam Kamath at University of Waterloo. Course has lecture videos (as a [YouTube playlist](https://www.youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)), lecture notes and additional readings. More theoretical, but an **excellent introductory** course to Differential Privacy.
 * [CS211: Data Privacy](https://jnear.github.io/cs211-data-privacy/) - Course taught by Joe Near and Protiva Sen at University of Vermont. Exclusively lecture slides (no videos), homework and weekly assignments via Jupyter Notebooks. 
 * [Privacy Preserving Machine Learning](http://researchers.lille.inria.fr/abellet/teaching/private_machine_learning_course.html) - Course taught by Aurélien Bellet at University of Lille. Exclusively lecture slides (no videos), practical sessions in Jupyter Notebooks. Definitely more of an advanced course.
 
@@ -32,10 +32,11 @@ A curated list of resources dedicated to Differential Privacy
 * [tensorflow-privacy](https://github.com/tensorflow/privacy) - TensorFlow library for Differential Privacy.
 * [PyDP](https://github.com/OpenMined/PyDP) - OpenMined's Python wrapper library of Google's differential privacy library.
 * [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - Privacy testing Python library for deep learning systems.
-* [diffprivlib](https://github.com/IBM/differential-privacy-library) - IBM's Python library for differential privacy.
+* [diffprivlib](https://github.com/IBM/differential-privacy-library) - IBM's Python library for Differential Privacy.
 
 ## Papers
 * [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133) - Paper that introduced Differentially Private SGD optimizator that enabled private deep learning.
 * [Learning Differentially Private Recurrent Language Models](https://arxiv.org/abs/1710.06963) - Paper that introduced training of large recurrent language models with user-level differential privacy guarantees with only a negligible cost in predictive accuracy.
 * [Privacy Regularization: Joint Privacy-Utility Optimization in Language Models](https://cseweb.ucsd.edu//~fmireshg/naacl_2021_private_text_gen.pdf) - Paper that introduced privacy regularization of LMs in order to try to preserve model utility and uniform treatment of under-represented subgroups.
-* [Removing Disparate Impact of DP-SGD on Model Accuracy](https://arxiv.org/abs/2003.03699) - Paper that introduced changes of regular DP-SGD optimizator in order to make it fair. You can view my paper summary (presentation) here.
+* [Removing Disparate Impact of DP-SGD on Model Accuracy](https://arxiv.org/abs/2003.03699) - Paper that introduced changes of regular DP-SGD optimizator in order to make it fair. You can view my paper summary (presentation) [here](https://docs.google.com/presentation/d/1aUpQd9LmcsML726c7EDiiFusx0KDIK2t4lPJEuy4gCM/edit?usp=sharing).
+* [The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks](https://arxiv.org/abs/1802.08232) - Paper that observed unintended memorization in LMs, and how they used differential privacy to avoid that memorization.
