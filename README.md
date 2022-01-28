@@ -15,6 +15,7 @@ A curated list of resources dedicated to Differential Privacy
 * [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - Book from creators of Differential Privacy, Cynthia Dwork and Aaron Roth. Wouldn't recommend as an introductory resource though.
 * [Programming Differential Privacy](https://programming-dp.com/) - Book by Joseph P. Near  and  Chiké Abuah. Created for a course at University of Vermont. Full of examples and Python code.
 * [Differential Privacy: A Primer for a Non-Technical Audience](https://salil.seas.harvard.edu/files/salil/files/differential_privacy_primer_nontechnical_audience.pdf) - Book by Wood et al. (including Kobbi Nissim), also analyzes legal aspects.
+* 
 ## Courses
 * [CS 860 - Algorithms for Private Data Analysis](http://www.gautamkamath.com/CS860-fa2020.html) - Course taught by Gautam Kamath at University of Waterloo. Course has lecture videos (as a [YouTube playlist](https://www.youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)), lecture notes and additional readings. More theoretical, but an **excellent introductory** course to Differential Privacy.
 * [CS211: Data Privacy](https://jnear.github.io/cs211-data-privacy/) - Course taught by Joe Near and Protiva Sen at University of Vermont. Exclusively lecture slides (no videos), homework and weekly assignments via Jupyter Notebooks. 
@@ -33,6 +34,9 @@ A curated list of resources dedicated to Differential Privacy
 * [PyDP](https://github.com/OpenMined/PyDP) - OpenMined's Python wrapper library of Google's differential privacy library.
 * [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - Privacy testing Python library for deep learning systems.
 * [diffprivlib](https://github.com/IBM/differential-privacy-library) - IBM's Python library for Differential Privacy.
+* [deepee](https://g-k.ai/deepee/) - Implements DP-SGD in PyTorch, but works for all first-order optimizers.
+* [pyvacy](https://github.com/ChrisWaites/pyvacy) - Implementation DP-SGD for PyTorch.
+* [autodp](https://github.com/yuxiangw/autodp) - Library for automating Differential Privacy computation.
 
 ## Papers
 * [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133) - Paper that introduced Differentially Private SGD optimizator that enabled private deep learning.
