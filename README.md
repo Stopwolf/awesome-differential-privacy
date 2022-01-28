@@ -15,7 +15,7 @@ A curated list of resources dedicated to Differential Privacy
 * [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - Book from creators of Differential Privacy, Cynthia Dwork and Aaron Roth. Wouldn't recommend as an introductory resource though.
 * [Programming Differential Privacy](https://programming-dp.com/) - Book by Joseph P. Near  and  Chiké Abuah. Created for a course at University of Vermont. Full of examples and Python code.
 * [Differential Privacy: A Primer for a Non-Technical Audience](https://salil.seas.harvard.edu/files/salil/files/differential_privacy_primer_nontechnical_audience.pdf) - Book by Wood et al. (including Kobbi Nissim), also analyzes legal aspects.
-* 
+ 
 ## Courses
 * [CS 860 - Algorithms for Private Data Analysis](http://www.gautamkamath.com/CS860-fa2020.html) - Course taught by Gautam Kamath at University of Waterloo. Course has lecture videos (as a [YouTube playlist](https://www.youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)), lecture notes and additional readings. More theoretical, but an **excellent introductory** course to Differential Privacy.
 * [CS211: Data Privacy](https://jnear.github.io/cs211-data-privacy/) - Course taught by Joe Near and Protiva Sen at University of Vermont. Exclusively lecture slides (no videos), homework and weekly assignments via Jupyter Notebooks. 
